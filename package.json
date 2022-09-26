@@ -1,0 +1,17 @@
+{
+  "name": "demo-pb-08",
+  "version": "1.0.0",
+  "description": "desafio5p",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "desafio5primero"
+  },
+  "author": "",
+  "license": "ISC"
+}
